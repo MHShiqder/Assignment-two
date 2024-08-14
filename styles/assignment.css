@@ -1,3 +1,7 @@
+@font-face{
+    font-family: miama;
+    src: url(../fonts/miama.regular.ttf);
+}
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 .inter-normal {
@@ -6,10 +10,7 @@
     font-weight: 400;
     font-style: normal;
   }
-@font-face{
-    font-family: miama;
-    src: url(../fonts/miama.regular.ttf);
-}
+
 
 
 /* shared style  */
