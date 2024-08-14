@@ -57,6 +57,13 @@
         bottom: 150px;
         left: 40px;
     }
+    .polygon{
+        display: block;
+        text-align: center;
+    }
+    .tutorial-card-circle img{
+        width: 100%;
+    }
     .tutorial-card-2{   
         top: 50px;
         right: 0;
